@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Rashmithrajshet
-- 👀 I’m interested in coading...
-- 🌱 I’m currently learning MSc in computer science
-- 💞️ I’m looking to collaborate on websites
+- 👋 Hi, I’m Rashmithrajshet
+- 👀 I’m software Engineer(IOS)
 - 📫 reach me rashmithraj2000@gmail.com
 -  ...
 
